@@ -152,6 +152,3 @@ ntds.dit file can now be used with quarkspwdump.
  - Make tests on more environments with different configuration (NTLM storage GP, history size...)
  - Parsing specific Bitlocker TPM owner information in NTDS.dit
  - Make the tool working full offline (from mounted image disk for example)
- 
-
-azizjon.m@gmail.com
